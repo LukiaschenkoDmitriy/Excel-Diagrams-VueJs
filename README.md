@@ -17,7 +17,7 @@ npm run dev
 npm run build
 ```
 
-### Prewiev:
+### Preview:
 ![Photo](https://github.com/LukiaschenkoDmitriy/Excel-Diagrams-VueJs/blob/master/images/excelGr.png)
 
 ![Photo](https://github.com/LukiaschenkoDmitriy/Excel-Diagrams-VueJs/blob/master/images/Screenshot_1.png)
